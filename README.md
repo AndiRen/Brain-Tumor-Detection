@@ -4,7 +4,7 @@
 
 -Compares two self-built deep nerual networks with a transfer-learning model built on the EfficientNetV2B2 model.    
 -All three models performed above 0.9 in both accuracy and macro F1 on the test data set.  
--However, when using a new data set of similar brain scan images, but with some novel orientations, the pretraiend model vastly outperformed the self-built models.  
+-However, when using a new data set of similar brain scan images, but with some novel orientations, the pretrained model vastly outperformed the self-built models.  
 -[The Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) Kaggle data set was used to train and do inital testing of the models.  
 -[The Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?select=Training) Kaggle data set was used to retest the models on similar, but new brain scan data.
 
