@@ -44,4 +44,4 @@
 
 1. Transfer learning is ideal for quick, cheap, and robust prototyping.  
 2. Can use prototyping to investigate research goals and identify data needs.  
-3. Once research goals and data needs identified can build infrastructure necessary to effectively train specialized models.  
+3. Once research goals and data needs identified can build data infrastructure necessary to effectively train specialized models.  
