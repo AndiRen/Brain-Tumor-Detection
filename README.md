@@ -1,4 +1,4 @@
-# Examing the Robustness of Transfer Learning in Brain Tumor Diagnosis
+# Analyzing the Robustness of Transfer Learning in Brain Tumor Diagnosis
 
 ## Overview
 
