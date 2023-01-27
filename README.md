@@ -10,7 +10,7 @@
 
 ## Results on Initial Training Set
 
-### Self-Built Small-Scale Convolusion Neural Netowrk  
+### Self-Built Small-Scale Convolusion Neural Network  
 -*accuracy*: 0.9300  
 -*macro F1*: 0.9344  
 
