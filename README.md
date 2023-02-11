@@ -14,7 +14,7 @@
 -*accuracy*: 0.9300  
 -*macro F1*: 0.9344  
 
-### Self-Built Residual Neural Network
+### Self-Built Large-Scale Residual Neural Network
 -*accuracy*: 0.9400  
 -*macro F1*: 0.9432  
 
@@ -28,7 +28,7 @@
 -*accuracy*: 0.7907  
 -*macro F1*: 0.7990  
 
-### Self-Built Residual Neural Network
+### Self-Built Large-Scale Residual Neural Network
 -*accuracy*: 0.6116  
 -*macro F1*: 0.6981  
 
