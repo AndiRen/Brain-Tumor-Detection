@@ -44,4 +44,5 @@
 
 1. Transfer learning is ideal for quick, cheap, and robust prototyping.  
 2. Can use prototyping to investigate research goals and identify data needs.  
-3. Once research goals and data needs identified can build data infrastructure necessary to effectively train specialized models.  
+3. Self-built models struggled compared to pretrained model not because of poor design but due to limited training images (2400 vs 14 mil).  
+4. Once research goals and data needs identified, can build data infrastructure necessary to effectively train specialized models.  
