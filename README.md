@@ -8,7 +8,7 @@
 -The [Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) Kaggle data set was used to train and do inital testing of the models.  
 -The [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?select=Training) Kaggle data set was used to retest the models on similar, but new brain scan data.
 
-## Results on Initial Training Set
+## Results on Initial Test Set
 
 ### Self-Built Small-Scale Convolusion Neural Network  
 -*accuracy*: 0.9300  
@@ -22,7 +22,7 @@
 -*accuracy*: 0.9233  
 -*macro F1*: 0.9235  
 
-## Results on Novel Training Set
+## Results on Novel Test Set
 
 ### Self-Built Small-Scall Convolusion Neural Netowrk  
 -*accuracy*: 0.7907  
